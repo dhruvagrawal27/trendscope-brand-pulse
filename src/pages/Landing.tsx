@@ -92,7 +92,7 @@ const Landing = () => {
                 </Button>
               </Link>
               <Button variant="glass" size="xl">
-                Watch Demo
+               /* Watch Demo */
                 <Eye className="ml-2 w-5 h-5" />
               </Button>
             </div>
