@@ -6,7 +6,7 @@ import { FloatingElements } from '@/components/FloatingElements';
 import { CustomCursor } from '@/components/CustomCursor';
 import { 
   TrendingUp, 
-  Users, 
+  Users,
   Clock, 
   Zap, 
   Eye, 
