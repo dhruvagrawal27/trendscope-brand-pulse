@@ -116,7 +116,7 @@ const FormPage = () => {
         timestamp: new Date().toISOString()
       };
 
-      const response = await fetch('https://dhruvthc.app.n8n.cloud/webhook-test/acd1fe83-8cad-4d8c-a725-c6e6778439b6', {
+      const response = await fetch('https://dhruvthc.app.n8n.cloud/webhook/acd1fe83-8cad-4d8c-a725-c6e6778439b6', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
